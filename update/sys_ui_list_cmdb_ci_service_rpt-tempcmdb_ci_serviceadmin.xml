@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="cmdb_ci_service" version="2" view="rpt-tempcmdb_ci_serviceadmin">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>name</element>
+            <list_id display_value="cmdb_ci_service" element="NULL" name="cmdb_ci_service" parent="NULL" relationship="NULL" sys_domain="global" view="fefdf31d0f120300f1628f8ce1050e66">71900ce90f520300f1628f8ce1050e4a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-07 14:28:35</sys_created_on>
+            <sys_id>b5900ce90f520300f1628f8ce1050e4a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-07 14:28:35</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>busines_criticality</element>
+            <list_id display_value="cmdb_ci_service" element="NULL" name="cmdb_ci_service" parent="NULL" relationship="NULL" sys_domain="global" view="fefdf31d0f120300f1628f8ce1050e66">71900ce90f520300f1628f8ce1050e4a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-07 14:28:35</sys_created_on>
+            <sys_id>39900ce90f520300f1628f8ce1050e4a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-07 14:28:35</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>service_classification</element>
+            <list_id display_value="cmdb_ci_service" element="NULL" name="cmdb_ci_service" parent="NULL" relationship="NULL" sys_domain="global" view="fefdf31d0f120300f1628f8ce1050e66">71900ce90f520300f1628f8ce1050e4a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-07 14:28:35</sys_created_on>
+            <sys_id>b9900ce90f520300f1628f8ce1050e4a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-07 14:28:35</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>managed_by</element>
+            <list_id display_value="cmdb_ci_service" element="NULL" name="cmdb_ci_service" parent="NULL" relationship="NULL" sys_domain="global" view="fefdf31d0f120300f1628f8ce1050e66">71900ce90f520300f1628f8ce1050e4a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-07 14:28:35</sys_created_on>
+            <sys_id>3d900ce90f520300f1628f8ce1050e4a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-07 14:28:35</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>owned_by</element>
+            <list_id display_value="cmdb_ci_service" element="NULL" name="cmdb_ci_service" parent="NULL" relationship="NULL" sys_domain="global" view="fefdf31d0f120300f1628f8ce1050e66">71900ce90f520300f1628f8ce1050e4a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-07 14:28:35</sys_created_on>
+            <sys_id>bd900ce90f520300f1628f8ce1050e4a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-07 14:28:35</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>change_control</element>
+            <list_id display_value="cmdb_ci_service" element="NULL" name="cmdb_ci_service" parent="NULL" relationship="NULL" sys_domain="global" view="fefdf31d0f120300f1628f8ce1050e66">71900ce90f520300f1628f8ce1050e4a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-07 14:28:35</sys_created_on>
+            <sys_id>31900ce90f520300f1628f8ce1050e4b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-07 14:28:35</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>location</element>
+            <list_id display_value="cmdb_ci_service" element="NULL" name="cmdb_ci_service" parent="NULL" relationship="NULL" sys_domain="global" view="fefdf31d0f120300f1628f8ce1050e66">71900ce90f520300f1628f8ce1050e4a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>6</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-07 14:28:35</sys_created_on>
+            <sys_id>b1900ce90f520300f1628f8ce1050e4b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-07 14:28:35</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>operational_status</element>
+            <list_id display_value="cmdb_ci_service" element="NULL" name="cmdb_ci_service" parent="NULL" relationship="NULL" sys_domain="global" view="fefdf31d0f120300f1628f8ce1050e66">71900ce90f520300f1628f8ce1050e4a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>7</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-07 14:28:35</sys_created_on>
+            <sys_id>35900ce90f520300f1628f8ce1050e4b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-07 14:28:35</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>cmdb_ci_service</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-07 14:28:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>71900ce90f520300f1628f8ce1050e4a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name/>
+            <sys_package/>
+            <sys_policy/>
+            <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+            <sys_update_name/>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-07 14:28:35</sys_updated_on>
+            <sys_user/>
+            <view display_value="Rpt-tempcmdb_ci_serviceadmin" name="rpt-tempcmdb_ci_serviceadmin">fefdf31d0f120300f1628f8ce1050e66</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>
